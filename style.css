@@ -1,0 +1,14 @@
+body {
+    background-image: url(noise-light.png);
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-size: xx-large;
+    font-weight: 700;
+    color: white;
+    background-color: #8C00FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    }
